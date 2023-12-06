@@ -1,4 +1,4 @@
-
+![technology-785742_1280](https://github.com/gr2100/PROFILE/assets/103631083/f390ee93-6738-47a3-a201-93c233c81ef7)
 <!-- Your Name and Introduction -->
 # Hi there, I'm Gayathri R! 👋
 <!-- About Yourself -->
