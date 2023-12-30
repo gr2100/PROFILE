@@ -21,7 +21,8 @@ I'm a dedicated B.Tech Computer Science and Engineering student at SRM Universit
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gr2100&margin-w=8&margin-h=4&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=gr2100&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mkswagger&icon=0&color=3)](https://visitcount.itsvg.in)
@@ -31,8 +32,9 @@ I'm a dedicated B.Tech Computer Science and Engineering student at SRM Universit
 ![gr2100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gr2100&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gr2100&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=gr2100&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gr2100&icon=1&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gr2100&icon=0&color=10)](https://visitcount.itsvg.in)
+
 
