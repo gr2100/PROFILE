@@ -26,9 +26,9 @@ I'm a dedicated B.Tech Computer Science and Engineering student at SRM Universit
 ---
 [![](https://visitcount.itsvg.in/api?id=mkswagger&icon=0&color=3)](https://visitcount.itsvg.in)
 ## 📊 Github stats
-![](https://github-readme-stats.vercel.app/api?username=gr2100&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gr2100&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gr2100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![gr2100's Stats](https://github-readme-stats.vercel.app/api?username=gr2100&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![gr2100's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr2100&theme=dracula&hide_border=true)
+![gr2100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gr2100&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gr2100&limit=5&theme=monokai&combine_all_yearly_contributions=true)
