@@ -25,7 +25,7 @@ I'm a dedicated B.Tech Computer Science and Engineering student at SRM Universit
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mkswagger&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gr2100&icon=0&color=3)](https://visitcount.itsvg.in)
 ## 📊 Github stats
 ![gr2100's Stats](https://github-readme-stats.vercel.app/api?username=gr2100&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![gr2100's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr2100&theme=dracula&hide_border=true)
