@@ -1,5 +1,9 @@
+
 ![technology-785742_1280](https://github.com/gr2100/PROFILE/assets/103631083/f390ee93-6738-47a3-a201-93c233c81ef7)
 <!-- Your Name and Introduction -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="300"/>
+</div>
 # Hi there, I'm Gayathri R! 👋
 <!-- About Yourself -->
 I'm a dedicated B.Tech Computer Science and Engineering student at SRM University, actively seeking internships. My passion lies in Data Science, Machine Learning, and becoming a proficient Computer Network enthusiast. As a creative designer, I merge technology with creativity to innovate. Let’s connect and make a difference in the digital world.
@@ -30,6 +34,7 @@ I'm a dedicated B.Tech Computer Science and Engineering student at SRM Universit
 ![gr2100's Stats](https://github-readme-stats.vercel.app/api?username=gr2100&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![gr2100's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr2100&theme=dracula&hide_border=true)
 ![gr2100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gr2100&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gr2100&limit=5&theme=dracula&combine_all_yearly_contributions=true)
