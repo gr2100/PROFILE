@@ -14,6 +14,8 @@ I'm a dedicated B.Tech Computer Science and Engineering student at SRM Universit
 - College Email: gr2100@srmist.edu.in
 - Location: Chennai, Tamil Nadu, India
 
+
+
 <!-- Social Media Links -->
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-rajavelu-788ba5156/)
@@ -33,11 +35,13 @@ I'm a dedicated B.Tech Computer Science and Engineering student at SRM Universit
 ## 📊 Github stats
 ![gr2100's Stats](https://github-readme-stats.vercel.app/api?username=gr2100&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![gr2100's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr2100&theme=dracula&hide_border=true)
-![gr2100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gr2100&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![gr2100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gr2100&theme=dracula&show_icons=true&hide_border=true&layout=compact)   ![](https://github-contributor-stats.vercel.app/api?username=gr2100&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gr2100&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenE3MXg2M3NxcjUwMWVja3oxMGdxeGIxb3lyYzZ4cWpmZjBxbW5lOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="300"/>
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gr2100&icon=0&color=10)](https://visitcount.itsvg.in)
