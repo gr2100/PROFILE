@@ -8,11 +8,16 @@
 <!-- About Yourself -->
 I'm a dedicated B.Tech Computer Science and Engineering student at SRM University, actively seeking internships. My passion lies in Data Science, Machine Learning, and becoming a proficient Computer Network enthusiast. As a creative designer, I merge technology with creativity to innovate. Let’s connect and make a difference in the digital world.
 
+
+
+
 <!-- Contact Information -->
-## 📫 Contact Me
+## 📫 Contact Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenE3MXg2M3NxcjUwMWVja3oxMGdxeGIxb3lyYzZ4cWpmZjBxbW5lOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" alt="typing" width="200" align="right">
+
 - Email: gayugudiya06@gmail.com
-- College Email: gr2100@srmist.edu.in
+- College Email: gr2100@srmist.edu.in 
 - Location: Chennai, Tamil Nadu, India
+
 
 
 
@@ -38,9 +43,6 @@ I'm a dedicated B.Tech Computer Science and Engineering student at SRM Universit
 ![gr2100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gr2100&theme=dracula&show_icons=true&hide_border=true&layout=compact)   ![](https://github-contributor-stats.vercel.app/api?username=gr2100&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenE3MXg2M3NxcjUwMWVja3oxMGdxeGIxb3lyYzZ4cWpmZjBxbW5lOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="300"/>
-</div>
 
 
 ---
